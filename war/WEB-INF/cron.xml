@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/reminderEmail</url>
+    <description>Send login reminder to a user</description>
+    <schedule>every day 00:00</schedule>
+  </cron>
+</cronentries>
+  
